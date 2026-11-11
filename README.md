@@ -1,4 +1,4 @@
-# Complete and Partial Evaluation of Three-Address Code (TAC)
+# Intermediate Code Generation : Implementing Complete and Partial Evaluation of Boolean Expressions
 
 A Compiler Design project implementing Intermediate Code Generation (ICG) for boolean and arithmetic expressions using **Flex (Lex)** and **Bison (Yacc)**. This project demonstrates and compares the two fundamental paradigms of intermediate code generation for control flow and boolean expressions: **Complete (Numerical) Evaluation** and **Partial (Short-Circuit) Evaluation with Backpatching**.
 
