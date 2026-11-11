@@ -1,0 +1,8 @@
+1
+y = a*a - x%b;
+if ( x > a + b && x > y)
+then x = a - b;
+else
+{ y = x*x;
+  a = 2* a; b = b/2;
+}
